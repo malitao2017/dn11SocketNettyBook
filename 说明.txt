@@ -1,0 +1,12 @@
+
+是书本《netty权威指南》的源代码
+http://download.csdn.net/detail/zhangrongchao_/8805651
+
+
+
+由于：
+package com.phei.netty.ssl;SecureChatClient
+报错，故先把这个类注释
+
+把不用的错误的引用去掉：
+SecureChatServer
